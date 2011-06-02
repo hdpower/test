@@ -1,4 +1,8 @@
 class interfejs extends JFrame
 {
-JList lista;
+JCheckbox checkbox;
+public void checkbox_creator()
+    (
+    create_checkbox();
+    )
 }
